@@ -1,14 +1,11 @@
 # Pokedex
 
-📎 Projeto 03 - Front end
-
-🎯 Projeto proposto pela DIO no ⭐ Bootcamp Orange Tech + ⭐ 
-
 Status: WIP - Work In Progress <br>
 
 
-## Sobre 
+## 📎 Sobre 
 
+Projeto proposto pela DIO no ⭐ Bootcamp Orange Tech + ⭐. <br>
 O Projeto consiste na criação de uma listagem de pokémons que consomem a PokeAPI
 
 ## 🛸 Tecnologias Utilizadas
@@ -21,6 +18,7 @@ O Projeto consiste na criação de uma listagem de pokémons que consomem a Poke
 
 </div>
 
+## ✨ Progresso
 
-
-✨ Visite: <i>Em breve</i>
+<img src="./assets/img/apresentationMenu.png" alt="Pre visualização da pokédex, lista de pokemons"> <br>
+Visite: <i>Em breve</i>
