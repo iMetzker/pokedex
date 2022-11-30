@@ -8,6 +8,7 @@ Status: WIP - Work In Progress <br>
 Projeto proposto pela DIO no ⭐ Bootcamp Orange Tech + ⭐ <br>
 O Projeto consiste na criação de uma listagem de pokémons que consomem a PokeAPI
 
+
 ## 🛸 Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
@@ -21,4 +22,4 @@ O Projeto consiste na criação de uma listagem de pokémons que consomem a Poke
 ## ✨ Progresso
 
 <img src="./assets/img/apresentationMenu.png" alt="Pre visualização da pokédex, lista de pokemons"> <br>
-Visite: <a href="https://pokedex-imetzker.netlify.app/" rel="Site" target="_blank">Pokedéx - I Geração</a>
+Visite: <a href="https://pokedex-imetzker.netlify.app/" rel="Site" target="_blank">Pokédex</a>
