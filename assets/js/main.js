@@ -8,7 +8,7 @@ const maxRecords = 151
 const limit = 30
 let offset = 0
 
-
+// Starta a numeração dos pokemons com 0
 function addZeros(numberPokemon, numberZeros) {
     return String(numberPokemon).padStart(numberZeros, '0');
 }
@@ -39,7 +39,7 @@ function loadPokemonItens(offset, limit) {
         ).join(''))
 }
 
-
+loadPokemonItens(offset, limit)
 
 loadMoreButton.addEventListener('click', () => {
     offset += limit
@@ -57,9 +57,9 @@ loadMoreButton.addEventListener('click', () => {
     }
 })
 
-loadPokemonItens(offset, limit)
 
-// Modal
+
+
 
 
     
