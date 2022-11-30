@@ -23,5 +23,5 @@ O Projeto consiste na criação de uma listagem de pokémons que consomem a Poke
 
 <img src="./assets/img/apresentationMenu.png" alt="Pre visualização da pokédex, lista de pokemons"> <br>
 
-🐱‍👤 Implementações sendo trabalhadas: Barra de busca e página de informações adicionais dos pokemons <br>
-Visite: <a href="https://pokedex-imetzker.netlify.app/" rel="Site" target="_blank">Pokédex</a>
+🐱‍👤 Implementações Que Ainda Farei: Barra de busca e página de informações adicionais dos pokemons. <br>
+✨ Visite: <a href="https://pokedex-imetzker.netlify.app/" rel="Site" target="_blank">Pokédex</a>
