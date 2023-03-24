@@ -1,15 +1,3 @@
-# Pokedex
-
-Status: WIP - Work In Progress <br>
-
-
-## 📎 Sobre 
-
-Projeto proposto pela DIO no ⭐ Bootcamp Orange Tech + ⭐ <br>
-O Projeto consiste na criação de uma listagem de pokémons que consomem a PokeAPI
-
-
-## 🛸 Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
   
@@ -19,9 +7,15 @@ O Projeto consiste na criação de uma listagem de pokémons que consomem a Poke
 
 </div>
 
-## ✨ Progresso
+# Pokedex
+
+## 📎 Sobre 
+
+Projeto proposto pela DIO no ⭐ Bootcamp Orange Tech + ⭐ <br>
+O Projeto consiste na criação de uma listagem simples de pokémons que consomem a PokeAPI
+
+## 💻 Demonstração
 
 <img src="./assets/img/apresentationMenu.png" alt="Pre visualização da pokédex, lista de pokemons"> <br>
 
-🐱‍👤 Implementações Que Ainda Farei: Barra de busca e página de informações adicionais dos pokemons. <br>
 ✨ Visite: <a href="https://pokedex-imetzker.netlify.app/" rel="Site" target="_blank">Pokédex</a>
